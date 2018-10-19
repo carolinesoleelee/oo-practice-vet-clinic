@@ -58,7 +58,7 @@ Implement all of the methods described below
   + Given a veterinarian and a date, check to see if that vet has any appointments on that day
 
 
-### ``
+### `Veterinarian`
 
 + `Veterinarian.all`
   + returns an array of all `Veterinarian`s
