@@ -75,4 +75,4 @@ Implement all of the methods described below
 + `Veterinarian#vaccinate(Animal)`
   + Takes an `Animal` instance and changes it's vaccination status from `false` to `true`
 + `Veterinarian#all_vaccinated`
-  + Checks to see if all of the `Animal`s that hav appointments with this `Veterinarian` are vaccinated
+  + Checks to see if all of the `Animal`s that have appointments with this `Veterinarian` are vaccinated
