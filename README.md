@@ -7,10 +7,9 @@ A vet has many appointments, and an appointment belongs to a vet.
 
 Along with the necessary relations between our classes, the following information is stored as well:
 
-An animal has a name (string), age (integer), weight (integer), and if they are vaccinated (boolean)
-A veterinarian has a name (string), and years experience (integer)
-An an appointment has a date (string) and a cost (float)
-(date strings should be written "MM/DD/YYYY")
+An animal has a name (string), age (integer), weight (integer), and if they are vaccinated (boolean). 
+A veterinarian has a name (string), and years experience (integer). 
+An an appointment has a date (string) and a cost (float) (date strings should be written "MM/DD/YYYY").
 
 As always, make sure to sketch out your domain and think about the single source of truth for your data.
 
