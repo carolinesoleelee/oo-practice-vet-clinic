@@ -1,9 +1,9 @@
 # Veterinarian's Office Challenge
 
-You have just been hired by Happy Paws & Claws, your neighborhood veterinarian's office to organize their information. Your 3 classes are `Animal`, `Vet`, and `Appointment`
+You have just been hired by Happy Paws & Claws, your neighborhood veterinarian's office to organize their veterinarian, patient, and appointment information. Your 3 classes are `Animal`, `Veterinarian`, and `Appointment`
 
-An animal has many appointments, and an appointment belongs to an Animal.
-A vet has many appointments, and an appointment belongs to a vet.
+An `Animal` has many `Appointment`s, and an `Appointment` belongs to an `Animal`.
+A `Veterinarian` has many `Appointment`s, and an `Appointment` belongs to a `Veterinarian`.
 
 Along with the necessary relations between our classes, the following information is stored as well:
 
